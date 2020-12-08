@@ -404,7 +404,7 @@ theme_map <- function(base_size = 9, base_family = "") {
 
 
 # Import data
-aphid_counts = read.table('./data/PNW_aphid_data_gridded_m5_50km.txt',sep='\t',as.is=T,check.names=F,header=T)
+aphid_counts = read.table('./data/aphid_counts_annual_NORTHWEST_m5_50km.txt',sep='\t',as.is=T,check.names=F,header=T)
 aphid_counts = aphid_counts[which(!is.na(aphid_counts$Latitude)),]
 aphid_sites = spTransform(readOGR(dsn='./shapefiles/PNW_aphid_sites_50km.shp',layer='PNW_aphid_sites_50km',verbose=F,stringsAsFactors=F),CRS(proj1)) #shapefile with butterfly count circles
 aphid_grid = readOGR(dsn='./shapefiles/grid_50km.shp',layer='grid_50km',verbose=F,stringsAsFactors=F) #shapefile with grid
