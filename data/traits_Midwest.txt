@@ -1,0 +1,97 @@
+Species	Invasive	Feeding	Plant_family	Primary_host	Summer_host	Host_breadth	Diet.breadth.families	Pest_family	Pest_status	DL_notes	Common_name	First_report	Host_alternating	Parthenogenesis	Minimum_length	Maximum_length
+Acyrthosiphon caraganae	Invasive	Specialist	Fabaceae	NA	forb	O	1	Fabaceae	NA		caragana aphid	1940	Monoecious	Holocyclic	2.6	4.3
+Acyrthosiphon lactucae	Invasive	Specialist	Asteraceae	NA	forb	M	1	Asteraceae	Vegetable		lettuce aphid	1943	Monoecious	Holocyclic	1.7	2.9
+Acyrthosiphon pisum	Invasive	Specialist	Fabaceae	NA	forb	O	1	Fabaceae	Field crop		pea aphid	1877	Monoecious	Holocyclic	2.5	4.4
+Anoecia corni	Invasive	Specialist	Poaceae;Cornaceae	Cornus	grass	O	2	Poaceae	Field crop			1897	Heteroecious	Holocyclic	1.9	2.8
+Anoecia cornicola	Native	Specialist	Poaceae;Cornaceae	Cornus	grass	O	2	NA	NA		(white-banded dogwood aphid)		Heteroecious	Holocyclic	1.7	1.7
+Anoecia oenotherae	Native	Specialist	Onagraceae;Cornaceae	Cornus	grass	M	2	NA	NA				Heteroecious	Holocyclic	1.5	1.5
+Anoecia setariae	Native	Specialist	Poaceae	NA	grass	O	1	NA	NA				Monoecious	Holocyclic	1.6	2
+Aphis asclepiadis	Native	Generalist	Asteraceae;Apiaceae;Apocynaceae;Cornaceae;Asparagaceae	Cornus	forb	P	5	NA	NA		milkweed aphid		Heteroecious	Holocyclic	1.4	2.5
+Aphis cephalanthi	Native	Specialist	Rubiaceae	NA	forb	M	1	NA	NA				Monoecious	Holocyclic	0.9	1.7
+Aphis coreopsidis	Native	Generalist	Nyssaceae;Asteraceae;Malvaceae;Lamiaceae	Nyssa	forb	P	4	NA	NA				Heteroecious	Holocyclic	1.5	1.8
+Aphis craccivora	Invasive	Generalist	Fabaceae;Asteraceae;Brassicaceae;Caryophyllaceae;Chenopodiaceae;Cucurbitaceae;Malvaceae;Ranunculaceae;Rosaceae;Solanaceae	NA	forb	P	10	Fabaceae	Field crop		cowpea aphid	1890	Monoecious	Anholocyclic	1.4	2.2
+Aphis decepta	Native	Specialist	Apiaceae	NA	forb	M	1	NA	NA				Monoecious	Anholocyclic	1.4	2.2
+Aphis fabae	Invasive	Generalist	Celastraceae;Asteraceae;Amaranthaceae;Apiaceae;Papavereae;Polygonaceae	Viburnum, Euonymus	forb	P	6	Many crops	Field crop		black bean aphid	1869	Heteroecious	Holocyclic	1.5	3.1
+Aphis folsomii	Native	Specialist	Vitaceae	NA	forb	M	1	NA	NA				Monoecious	Anholocyclic	1.6	1.8
+Aphis glycines	Invasive	Specialist	Rhamnaceae;Fabaceae	Rhamnus	forb	O	2	Fabaceae	Field crop		soybean aphid	2000	Heteroecious	Holocyclic	1.2	1.7
+Aphis gossypii	Invasive	Generalist	Malvaceae;Asparagaceae;Rutaceae;Bignoniaceae;Celastraceae;Lythraceae; Rhamnaceae	Rhamnus	forb	P	7	Many crops	Field crop		cotton aphid; melon aphid	1852	Heteroecious	Holocyclic	0.9	1.8
+Aphis illinoisensis	Native	Specialist	Adoxaceae;Vitaceae	Viburnum	forb	O	2	Vitaceae	Fruit		grapevine aphid		Heteroecious	Holocyclic	1.6	2.1
+Aphis impatientis	Native	Generalist	Cornaceae;Balsaminaceae;Asteraceae	Cornus	forb	P	3	NA	NA				Heteroecious	Holocyclic	1.1	1.8
+Aphis maculatae	Native	Specialist	Salicaceae;Cornaceae	Cornus	tree	M	2	NA	NA		spotted poplar aphid		Heteroecious	Holocyclic	1.7	1.8
+Aphis nasturtii	Invasive	Generalist	Solanaceae;Asteraceae;Amaranthaceae;Rhamnaceae;Brassicaceae;Plantaginaceae;Droseraceae	Rhamnus	forb	P	7	Many crops	Vegetable		buckthorn-potato aphid	1894	Heteroecious	Holocyclic	1.3	2
+Aphis nerii	Invasive	Specialist	Apocynaceae	NA	forb	M	1	Ornamental flowers	NA		oleander aphid	1879	Monoecious	Anholocyclic	1.5	2.6
+Aphis polygonata	Invasive	Specialist	Polygonaceae	NA	forb	M	1	NA	NA		brown knotgrass aphid	1977	Monoecious	Holocyclic	1.6	2.2
+Aphis pulchella	Native	Specialist	Euphorbiaceae	NA	forb	M	1	NA	NA				Monoecious	Holocyclic	1.6	1.7
+Aphis rubicola	Native	Specialist	Rosaceae	NA	forb	M	1	Rosaceae	Fruit		small raspberry aphid		Monoecious	Holocyclic	0.6	1.2
+Aphis rumicis	Invasive	Specialist	Polygonaceae	NA	forb	M	1	NA	NA		dock aphid	Unknown	Monoecious	Holocyclic	1.4	2.8
+Aphis sambuci	Invasive	Generalist	Adoxaceae;Caryophyllaceae;Polygonaceae;Brassicaceae;Onagraceae;Saxifragaceae	Sambucus	forb	P	6	NA	NA			1847	Heteroecious	Holocyclic	1.4	3.5
+Aphis spiraecola	Invasive	Generalist	Caprifoliaceae;Asteraceae;Rosaceae;Rubiaceae;Rutaceae	Spiraea	shrub	P	5	Rutaceae	Fruit		spirea aphid	1907	Heteroecious	Holocyclic	1.2	2.2
+Aspidaphis adjuvans	Invasive	Specialist	Polygonaceae	NA	forb	M	1	NA	NA		wrinkly knotgrass aphid	1907	Monoecious	Holocyclic	1.3	2
+Aulacorthum solani	Invasive	Generalist	Solanaceae;Apiaceae;Cucurbitaceae;FabaceaeLiliaceae;Convulvaceae;Plantaginaceae	NA	forb	P	7	Many crops	Vegetable		foxglove aphid	1879	Monoecious	Holocyclic	1.8	3
+Brachycaudus cardui	Invasive	Generalist	Asteraceae;Boraginaceae;Rosaceae;Brassicaceae	Prunus	forb	P	4	Rosaceae	Fruit		plum-thistle aphid	1887	Heteroecious	Holocyclic	1.9	2.3
+Brachycaudus helichrysi	Invasive	Generalist	Asteraceae;Boraginaceae;Rosaceae;Fabaceae;Polygonaceae;Plantaginaceae;Saxifragaceae	Prunus	forb	P	7	Rosaceae	Fruit		leaf-curling plum aphid	1893	Heteroecious	Holocyclic	0.9	2
+Brevicoryne brassicae	Invasive	Specialist	Brassicaceae;Resedaceae	NA	forb	O	2	Brassicaceae	Vegetable		cabbage aphid	1791	Monoecious	Holocyclic	1.6	2.6
+Calaphis betulella	Native	Specialist	Betulaceae	NA	tree	M	1	NA	NA				Monoecious	Holocyclic	2	2.5
+Capitophorus elaeagni	Invasive	Specialist	Elaeagnaceae;Asteraceae	Elaeagnus	forb	O	2	NA	NA		artichoke aphid	1892	Heteroecious	Holocyclic	1.9	2.5
+Capitophorus hippophaes	Invasive	Specialist	Elaeagnaceae;Polygonaceae	Elaeagnus, Hoppophae	forb	O	2	NA	NA		polygonum aphid	1895	Heteroecious	Holocyclic	1.5	2.1
+Cavariella aegopodii	Invasive	Specialist	Salicaceae;Apiaceae	Salix	forb	O	2	Apiaceae	Vegetable		carrot-willow aphid	1903	Heteroecious	Holocyclic	1	2.6
+Chaitophorus populicola	Native	Specialist	Salicaceae	NA	tree	M	1	Salicaceae	NA		poplar leaf aphid		Monoecious	Holocyclic	2	2.5
+Colopha ulmicola	Native	Specialist	Ulmaceae;Poaceae	Ulmus	grass	M	2	NA	NA		elm cockscomb aphid		Heteroecious	Holocyclic	1	1.6
+Diuraphis noxia	Invasive	Specialist	Poaceae	NA	grass	O	1	Poaceae	Field crop		Russian wheat aphid	1986	Monoecious	Holocyclic	1.4	2.3
+Drepanaphis acerifoliae	Native	Specialist	Sapindaceae	NA	tree	M	1	NA	NA		painted maple aphid		Monoecious	Holocyclic	1.9	2.3
+Dysaphis plantaginea	Invasive	Specialist	Rosaceae;Plantaginaceae	Malus	tree	M	2	Malus	Fruit		rosy apple aphid	1890	Heteroecious	Holocyclic	2.1	2.6
+Eucallipterus tiliae	Invasive	Specialist	Malvaceae	NA	tree	M	1	Malvaceae	NA		lime aphid; linden aphid	1890	Monoecious	Holocyclic	1.8	3
+Eulachnus rileyi	Invasive	Specialist	Pinaceae	NA	tree	M	1	Pinaceae	NA		pine needle aphid	1886	Monoecious	Holocyclic	2.3	3
+Forda marginata	Invasive	Specialist	Anacardiaceae;Poaceae	NA	grass	O	2	Poaceae	Field crop		crusty pistachio-grass root aphid	1885	Monoecious	Anholocyclic	1.6	3.1
+Geoica utricularia	Invasive	Specialist	Anacardiaceae;Poaceae	NA	grass	O	2	Poaceae	Field crop		short-haired pistachio-grassroot aphid	1887	Monoecious	Anholocyclic	1.6	3
+Hamamelistes spinosus	Native	Specialist	Hamamelidaceae;Betulaceae	Hamamelis	tree	M	2	NA	NA		spiny witch hazel gall aphid		Heteroecious	Holocyclic	2	2
+Hayhurstia atriplicis	Invasive	Specialist	Amaranthaceae	NA	forb	O	1	Amaranthaceae	Vegetable		Chenopodium aphid	1887	Monoecious	Holocyclic	1.5	2.9
+Hyadaphis foeniculi	Invasive	Specialist	Caprifoliaceae;Apiaceae	Symphoricarpos	forb	O	2	Caprifoliaceae	NA		fly honeysuckle aphid	1879	Heteroecious	Holocyclic	1.3	2.6
+Hyadaphis tataricae	Invasive	Specialist	Caprifoliaceae	NA	shrub	M	1	Caprifoliaceae	NA		honeysuckle aphid	1979	Monoecious	Holocyclic	1.1	2.5
+Hyalopterus pruni	Invasive	Specialist	Rosaceae;Poaceae	Prunus	grass	M	2	Rosaceae	Fruit		mealy plum aphid	1879	Heteroecious	Holocyclic	1.5	2.6
+Hyperomyzus spp.	Invasive	Specialist	Glossulariaceae;Asteraceae	Ribes	forb	O	2	Glossulariaceae	Fruit	H. lactucae and H. pallidus		1997?	Heteroecious	Holocyclic	2	3.5
+Hysteroneura setariae	Native	Generalist	Poaceae;Cyperaceae;Arecaceae;Rosaceae	Prunus	grass	P	4	Poaceae	Field crop		rusty plum aphid		Heteroecious	Holocyclic	1.3	2.1
+Illinoia spp.	Native	Specialist	Ericaceae	NA	forb	M	1	NA	NA	The following species has been identified from suction traps: Illinoia pepperi (MacGillivray, 1958)			Monoecious	Holocyclic	1.7	2.8
+Iziphya flabella	Native	Specialist	Cyperaceae	NA	grass	M	1	NA	NA				Monoecious	Holocyclic	1.5	2
+Kaltenbachiella ulmifusa	Native	Specialist	Ulmaceae;Lamiaceae	Ulmus	forb, tree	O	2	NA	NA		slippery elm gall aphid		Monoecious	Holocyclic	1.4	1.5
+Lipaphis pseudobrassicae	Invasive	Specialist	Brassicaceae	NA	forb	O	1	Brassicaceae	Vegetable		turnip aphid	1899	Monoecious	Holocyclic	1.4	2.4
+Macrosiphoniella spp.	Invasive	Specialist	Asteraceae	NA	forb	O	1	NA	NA	The following species has been identified from suction traps: Macrosiphoniella abrotani abrotani (Walker, 1852); M. tapuskae (Hottes & Frison, 1931)	(M. tapuskae = large green yarrow aphid)	1929?	Monoecious	Holocyclic	2.4	3.3
+Macrosiphum euphorbiae	Native	Generalist	Rosaceae;Amaranthaceae;Solanaceae;Brassicaceae;Asteraceae	Rosa	shrub	P	5	Solanaceae;Brassicaceae	Vegetable		potato aphid		Heteroecious	Holocyclic	1.7	3.6
+Melanaphis sacchari	Invasive	Specialist	Poaceae; Araceae	NA	grass	O	1	Poaceae	Field crop		sugarcane aphid	1977	Monoecious	Anholocyclic	1.1	2
+Metopolophium dirhodum	Invasive	Specialist	Rosaceae;Poaceae;Cyperaceae	Rosa	shrub, grass	O	3	Poaceae	Field crop		rose-grain aphid	1910	Heteroecious	Holocyclic	1.6	2.9
+Monellia caryella	Native	Specialist	Juglandaceae	NA	tree	M	1	Juglandaceae	Fruit		blackmargined pecan aphid		Monoecious	Holocyclic	0.9	2.2
+Mordwilkoja vagabunda	Native	Specialist	Salicaceae;Primulaceae	Populus	forb	M	2	NA	NA		poplar vagabond aphid		Heteroecious	Holocyclic	2	3
+Myzocallis spp.	Native	Specialist	Fagaceae;Apocynaceae	NA	forb, tree	M	2	NA	NA	The following species has been identified from suction traps: Myzocallis asclepiadis (Monell, 1879); M. granovsky Bondreaux &Tissot, 1962; M. punctatus (Monell in Riley & Monell, 1879); M. walshii (Monell in Riley & Monell, 1879)			Monoecious	Holocyclic	1.6	2.5
+Myzus lythri	Invasive	Generalist	Rosaceae;Lythraceae;Onagraceae;Rhamnaceae	Prunus	forb	P	4	NA	NA		purple loosestrife aphid	1916	Heteroecious	Holocyclic	1.8	2
+Myzus persicae	Invasive	Generalist	Rosaceae;Solanaceae;Brassicaceae;Amaranthaceae;Poaceae;Asteraceae;Malvaceae;Apiaceae;Cucurbitaceae	Prunus	forb	P	9	Many crops	Vegetable		green peach aphid; peach-potato aphid	1841	Heteroecious	Holocyclic	1.2	2.3
+Nearctaphis bakeri	Native	Generalist	Rosaceae;Brassicaceae;Fabaceae;Plantaginaceae;Orobanchaceae;Caprifoliaceae	Pomoideae	forb	O	6	NA	NA		short-beaked clover aphid		Heteroecious	Holocyclic	1.4	2.3
+Nearctaphis crataegifoliae	Native	Specialist	Rosaceae;Fabaceae	Crataegus	forb	O	2	NA	NA				Heteroecious	Holocyclic	1.6	2.5
+Pemphigus spp.	Native	Specialist	Salicaceae;Brassicaceae	Populus	forb, tree	M	2	NA	NA	The following species has been identified from suction traps: Pemphigus monophagus Maxson, 1934; P. populitransversus Riley in Riley & Monell, 1879			NA	Holocyclic	1.4	2
+Phorodon cannabis	Native	Specialist	Cannabaceae	NA	forb	M	1	Cannabaceae	Cannabis		cannabis aphid		Monoecious	Holocyclic	1.5	2.7
+Phorodon humuli	Invasive	Specialist	Rosaceae;Cannabaceae	Prunus	forb	M	2	Rosaceae;Cannabaceae	Fruit		hop aphid	1863	Heteroecious	Holocyclic	2	2.6
+Prociphilus spp.	Native	NA	Pinaceae;Oleaceae;Fabaceae;Poaceae;Asteraceae;Orobanchaceae	Fraxinus	forb, grass, tree	O	6	NA	NA	The following species has been identified from suction traps:Prociphilus americanus (Walker, 1852); P. caryae (Fitch, 1856); P. erigeronensis (Thomas, 1879); P. fraxini (Fabricius, 1777); P. longianus Smith, 1974; P. pergandei Smith, 1974			NA	NA	2.7	5.1
+Protaphis debilicornis	Native	Specialist	Asteraceae	NA	forb	M	1	NA	NA				Monoecious	Holocyclic	1.6	2.1
+Protaphis knowltoni	Native	Specialist	Asteraceae	NA	forb	O	1	NA	NA				Monoecious	Holocyclic	1.8	2.3
+Protaphis middletonii	Native	Generalist	Asteraceae;Brassicaceae;Poaceae;Lamiaceae;Apiaceae;Cactaceae	NA	forb, grass	P	6	NA	NA				Monoecious	Holocyclic	1.5	2.5
+Pterocallis alnifoliae	Native	Specialist	Betulaceae	NA	tree	M	1	NA	NA				Monoecious	Holocyclic	1.3	1.7
+Rhopalosiphoninus latysiphon	Invasive	Generalist	Poaceae;Solanaceae;Convulvaceae;Rosaceae;Araliaceae;Urticaceae;Apocynaceae;Liliaceae;Iridaceae	NA	forb, grass	P	9	Solanaceae	Vegetable		buld-and-potato aphid	1912	Monoecious	Anholocyclic	1.4	2.5
+Rhopalosiphoninus staphyleae	Invasive	Generalist	Ranunculaceae;Liliaceae;Iridaceae;Brassicaceae;Lamiaceae;Oxalidaceae;Apocynaceae;Staphyleaceae;Poaceae;Amaranthaceae	Staphylea	forb, grass	P	10	NA	NA		mangold aphid	1953	Heteroecious	Holocyclic	2.3	3
+Rhopalosiphum cerasifoliae	Native	Specialist	Rosaceae;Cyperaceae;Juncaceae	Prunus	grass	P	3	NA	NA		chokecherry aphid		Heteroecious	Holocyclic	2	2.5
+Rhopalosiphum maidis	Invasive	Specialist	Poaceae;Cyperaceae;Typhaceae;Rosaceae	NA	grass	O	4	Poaceae	Field crop		corn leaf aphid	1851	Monoecious	Anholocyclic	0.9	2.4
+Rhopalosiphum nymphaeae	Invasive	Generalist	Alismataceae;Butomaceae;Plantaginaceae;Juncaceae;Nelumbonaceae;Nymphaeaceae;Potamogetonaceae;Typhaceae;Juncaginaceae	Prunus	forb, grass	P	9	NA	NA		waterlily aphid	1890	Heteroecious	Holocyclic	1.6	2.9
+Rhopalosiphum oxyacanthae	Native	Specialist	Rosaceae;Poaceae	Pyroidae	grass	O	2	Rosaceae	Fruit		apply-grass aphid		Heteroecious	Holocyclic	2.1	2.6
+Rhopalosiphum padi	Native	Generalist	Rosaceae;Oleaceae;Poaceae;Cyperaceae;Iridaceae;Juncaceae;Typhaceae;Brassicaceae;Caryophyllaceae	Prunus	grass	O	9	Poaceae	Field crop		Bird cherry-oat aphid		Monoecious	Anholocyclic	2	2.9
+Rhopalosiphum rufiabdominale	Invasive	Generalist	Rosaceae;Cannabaceae;Poaceae;Cyperaceae;Solanaceae	Prunus	forb, grass	P	5	Poaceae	Field crop		red rice root aphid	1856	Heteroecious	Holocyclic	2	2.6
+Schizaphis graminum	Invasive	Specialist	Poaceae	NA	grass	O	1	Poaceae	Field crop		greenbug	1884	Monoecious	Holocyclic	1.3	2.1
+Schizaphis minuta	Invasive	Specialist	Mazaceae; Cyperaceae	NA	grass	O	2	NA	NA			1998	Monoecious	Anholocyclic	1.2	1.8
+Shivaphis celti	Invasive	Specialist	Cannabaceae	NA	forb	M	1	Cannabaceae	NA		Asian wooly hackberry aphid	1996	Monoecious	Anholocyclic	1.9	2.6
+Sipha elegans	Invasive	Specialist	Poaceae	NA	grass	O	1	Poaceae	Field crop			1949	Monoecious	Holocyclic	1.4	2.1
+Sipha flava	Native	Specialist	Poaceae	NA	grass	O	1	Poaceae	Field crop		yellow sugarcane aphid		Monoecious	Holocyclic	1.3	2
+Sitobion avenae	Invasive	Specialist	Poaceae;Caryophyllaceae;Brassicaceae	NA	grass	O	3	Poaceae	Field crop		English grain aphid	1851	Monoecious	Holocyclic	1.3	3.3
+Tetraneura spp.	Invasive	Specialist	Ulmaceae;Poaceae	Ulmus	grass	O	2	Poaceae	Field crop	T. ulmi, T. nigriabdominalis 	(elm-grass root aphid)	1890?	Heteroecious	Holocyclic	1.5	2.8
+Therioaphis riehmi	Invasive	Specialist	Fabaceae	NA	forb	O	1	Fabaceae	Field crop		sweet clover aphid	1948	Monoecious	Holocyclic	2	2.7
+Therioaphis trifolii	Invasive	Specialist	Fabaceae	NA	forb	O	1	Fabaceae	Field crop		yellow clover aphid	1879	Monoecious	Holocyclic	1.4	2.2
+Thripsaphis spp.	Native	Specialist	Cyperaceae	NA	grass	M	1	NA	NA				Monoecious	Anholocyclic	1.4	3
+Tinocallis saltans	Invasive	Specialist	Ulmaceae	NA	tree	M	1	Ulmaceae	NA			1986	Monoecious	Holocyclic	1.4	2.2
+Uroleucon sonchi	Invasive	Specialist	Asteraceae	NA	forb	O	1	NA	NA		sow-thistle aphid	1892	Monoecious	Holocyclic	2.9	4.5
+Uroleucon taraxaci	Invasive	Specialist	Asteraceae	NA	forb	M	1	NA	NA		bronze-brown dandelion aphid	1902	Monoecious	Holocyclic	2.5	3.8
